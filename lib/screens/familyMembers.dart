@@ -57,6 +57,8 @@ class FamilyMembers extends StatelessWidget {
         sound: 'sounds/family_members/younger sister.wav'),
   ];
 
+  FamilyMembers({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

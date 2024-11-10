@@ -58,6 +58,8 @@ class Numbers extends StatelessWidget {
         sound: 'sounds/numbers/number_ten_sound.mp3'),
   ];
 
+  Numbers({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

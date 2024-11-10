@@ -26,22 +26,22 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           ItemTitel(
-            color: Color(0xffF99531),
+            color: const Color(0xffF99531),
             title: 'Numbers',
             navigatTo: Numbers(),
           ),
           ItemTitel(
-            color: Color(0xff528032),
+            color: const Color(0xff528032),
             title: 'Family Members',
             navigatTo: FamilyMembers(),
           ),
           ItemTitel(
-            color: Color(0xff7D40A2),
+            color: const Color(0xff7D40A2),
             title: 'Colors',
             navigatTo: ColorsPage(),
           ),
           ItemTitel(
-            color: Color(0xff47A5CB),
+            color: const Color(0xff47A5CB),
             title: 'Pharses',
             navigatTo: PhrasesPage(),
           ),

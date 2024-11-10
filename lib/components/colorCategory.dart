@@ -6,16 +6,16 @@ class colorCategory extends StatelessWidget {
   MyModel colorModel;
    
   
-  colorCategory( {required this.colorModel});
+  colorCategory( {super.key, required this.colorModel});
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Color(0xff7D40A2),
+      color: const Color(0xff7D40A2),
       child: Row(
         children: [
           Container(
-              color: Color(0xffFFF4DB),
+              color: const Color(0xffFFF4DB),
               child: Image.asset(
                 colorModel.imgPath,
                 height: 84,
@@ -24,18 +24,18 @@ class colorCategory extends StatelessWidget {
             padding: const EdgeInsets.only(left: 9.0),
             child: Column(
               children: [
-                Text(colorModel.engName,style: TextStyle(color: Colors.white),),
-                Text(colorModel.jaName,style: TextStyle(color: Colors.white),),
+                Text(colorModel.engName,style: const TextStyle(color: Colors.white),),
+                Text(colorModel.jaName,style: const TextStyle(color: Colors.white),),
               ],
             ),
           ),
-          Spacer(),
+          const Spacer(),
           IconButton(
             onPressed:() {
         final player = AudioPlayer();
         player.play(AssetSource(colorModel.sound));
       },
-            icon: Icon(Icons.play_arrow),color: Colors.white,
+            icon: const Icon(Icons.play_arrow),color: Colors.white,
           )
         ],
       ),

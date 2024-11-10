@@ -8,13 +8,13 @@ class PhrasesCategory extends StatelessWidget {
   PhrasesModel phrasesModel;
    
   
-  PhrasesCategory( {required this.phrasesModel});
+  PhrasesCategory( {super.key, required this.phrasesModel});
 
   @override
   Widget build(BuildContext context) {
     return Container(
       height: 84,
-      color: Color(0xff47A5CB),
+      color: const Color(0xff47A5CB),
       child: Row(
         children: [
          
@@ -23,18 +23,18 @@ class PhrasesCategory extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text(phrasesModel.engName,style: TextStyle(color: Colors.white),),
-                Text(phrasesModel.jaName,style: TextStyle(color: Colors.white),),
+                Text(phrasesModel.engName,style: const TextStyle(color: Colors.white),),
+                Text(phrasesModel.jaName,style: const TextStyle(color: Colors.white),),
               ],
             ),
           ),
-          Spacer(),
+          const Spacer(),
           IconButton(
             onPressed:() {
         final player = AudioPlayer();
         player.play(AssetSource(phrasesModel.sound));
       },
-            icon: Icon(Icons.play_arrow),color: Colors.white,
+            icon: const Icon(Icons.play_arrow),color: Colors.white,
           )
         ],
       ),

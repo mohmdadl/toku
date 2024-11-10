@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:toku/screens/numbers.dart';
 
 class ItemTitel extends StatelessWidget {
   String title;
@@ -22,7 +21,7 @@ class ItemTitel extends StatelessWidget {
           padding: const EdgeInsets.only(left: 15),
           child: Text(
             title,
-            style: TextStyle(color: Colors.white, fontSize: 22),
+            style: const TextStyle(color: Colors.white, fontSize: 22),
           ),
         ),
       ),
