@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toku/components/itemCategory.dart';
+import 'package:toku/components/outside_Category.dart';
 import 'package:toku/screens/colors.dart';
 import 'package:toku/screens/familyMembers.dart';
 import 'package:toku/screens/numbers.dart';

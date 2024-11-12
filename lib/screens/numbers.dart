@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:toku/components/numberCategory.dart';
+import 'package:toku/components/my_category.dart';
 import 'package:toku/models/my_model.dart';
+
 
 
 class Numbers extends StatelessWidget {
@@ -74,7 +75,7 @@ class Numbers extends StatelessWidget {
       body: ListView.builder(
         itemCount: numbers.length,
         itemBuilder: (context, index) {
-          return NumberCategory(number: numbers[index]);
+          return MyCategory(myModel: numbers[index], color: const Color(0xffF99531),);
         },
       ),
     );

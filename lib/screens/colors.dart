@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toku/components/colorCategory.dart';
+import 'package:toku/components/my_category.dart';
 import 'package:toku/models/my_model.dart';
 
 
@@ -64,7 +64,7 @@ class ColorsPage extends StatelessWidget {
       body: ListView.builder(
         itemCount: colors.length,
         itemBuilder: (context, index) {
-          return colorCategory(colorModel: colors[index],);
+          return MyCategory(myModel: colors[index], color:const Color(0xff7D40A2),);
         },
       ),
     );

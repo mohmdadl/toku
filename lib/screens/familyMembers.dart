@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toku/components/familyCategory.dart';
+import 'package:toku/components/my_category.dart';
 import 'package:toku/models/my_model.dart';
 
 class FamilyMembers extends StatelessWidget {
@@ -73,8 +73,8 @@ class FamilyMembers extends StatelessWidget {
       body: ListView.builder(
         itemCount: members.length,
         itemBuilder: (context, index) {
-          return FamilyCategory(
-            member: members[index],
+          return MyCategory(
+            myModel: members[index], color: const Color(0xff528032),
           );
         },
       ),
