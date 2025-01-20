@@ -41,6 +41,7 @@ A mobile application designed to help users learn the Japanese language, featuri
 ### Pharses Screen
 
 https://github.com/user-attachments/assets/109a6020-e173-466b-9634-62f57b07ae08
+
 *Listening popular pharses in japanes.*
 
 
