@@ -17,6 +17,16 @@ A mobile application designed to help users learn the Japanese language, featuri
 - **UI Design:** Flutter Widgets and Material Design
 
 
+
+## 🖼️ Screensrecord
+
+### Pharses Screen
+
+https://github.com/user-attachments/assets/109a6020-e173-466b-9634-62f57b07ae08
+
+*Listening popular pharses in japanes.*
+
+
 ## 🖼️ Screenshots
 
 
@@ -36,13 +46,6 @@ A mobile application designed to help users learn the Japanese language, featuri
 <img src="screenshots/Screenshot.FamilyMembers.example.toku.jpg" alt="FamilyMembers Section" width="200"/>
 *Learning Family Members with Japanese pronunciation.*
 
-## 🖼️ Screensrecord
-
-### Pharses Screen
-
-https://github.com/user-attachments/assets/109a6020-e173-466b-9634-62f57b07ae08
-
-*Listening popular pharses in japanes.*
 
 
 ## 📥 How to Run the App
