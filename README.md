@@ -1,16 +1,51 @@
-# toku
+# Japanese Language Learning App 🇯🇵
 
-A new Flutter project.
+A mobile application designed to help users learn the Japanese language, featuring audio recordings for numbers, colors, and commonly used phrases.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔢 Learn Japanese numbers with pronunciation.
+- 🎨 Learn Japanese colors with audio support.
+- 👨‍👩‍👦‍👦 Learn Japanese Family Members with audio support.
+- 💬 Common phrases used in daily conversations.
+- 🎧 Audio support to improve pronunciation and listening skills.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Programming Language:** Dart (with Flutter framework)
+- **Audio Handling:** `audioplayers` package
+- **UI Design:** Flutter Widgets and Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🖼️ Screenshots
+
+
+### Home Screen
+![Home Screen](screenshots\Screenshot.HomeScreen.example.toku.jpg)  
+*Home screen showing categories and audio playback.*
+
+### Numbers Section
+![Numbers Section](screenshots\Screenshot.Numbers.example.toku.jpg)  
+*Learning numbers with audio support.*
+
+### Colors Section
+![Colors Section](screenshots\Screenshot.Colors.example.toku.jpg)  
+*Learning colors with Japanese pronunciation.*
+
+### Family Members Section
+![Colors Section](screenshots\Screenshot.FamilyMembers.example.toku.jpg)  
+*Learning Family Members with Japanese pronunciation.*
+
+## 🖼️ Screensrecord
+
+### Pharses Screen
+![Pharses Screen](screenshots\Screenrecord.Pharses.example.toku.mp4)  
+*Listening popular pharses in japanes.*
+
+## 📥 How to Run the App
+
+Follow these steps to run the app on your local machine:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
