@@ -20,8 +20,8 @@ A mobile application designed to help users learn the Japanese language, featuri
 ## 🖼️ Screenshots
 
 
-### Home Screen
-![Home Screen](screenshots/Screenshot.HomeScreen.example.toku.jpg | width=100)  
+### Colors Section
+<img src="screenshots/Screenshot.Colors.example.toku.jpg" alt="Colors Section" width="100"/> 
 *Home screen showing categories and audio playback.*
 
 ### Numbers Section
