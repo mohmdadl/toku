@@ -39,8 +39,11 @@ A mobile application designed to help users learn the Japanese language, featuri
 ## 🖼️ Screensrecord
 
 ### Pharses Screen
-![Pharses Screen](screenshots/Screenrecord.Pharses.example.toku.mp4)  
+
+https://github.com/user-attachments/assets/109a6020-e173-466b-9634-62f57b07ae08
+
 *Listening popular pharses in japanes.*
+
 
 ## 📥 How to Run the App
 
