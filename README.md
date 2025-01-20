@@ -21,7 +21,7 @@ A mobile application designed to help users learn the Japanese language, featuri
 
 
 ### Home Screen
-![Home Screen](screenshots/Screenshot.HomeScreen.example.toku.jpg)  
+![Home Screen](screenshots/Screenshot.HomeScreen.example.toku.jpg | width=100)  
 *Home screen showing categories and audio playback.*
 
 ### Numbers Section
