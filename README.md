@@ -21,19 +21,19 @@ A mobile application designed to help users learn the Japanese language, featuri
 
 
 ### Colors Section
-<img src="screenshots/Screenshot.Colors.example.toku.jpg" alt="Colors Section" width="100"/> 
+<img src="screenshots/Screenshot.HomeScreen.example.toku.jpg" alt="HomeScreen Section" width="200"/> 
 *Home screen showing categories and audio playback.*
 
 ### Numbers Section
-![Numbers Section](screenshots/Screenshot.Numbers.example.toku.jpg)  
+<img src="screenshots/Screenshot.Numbers.example.toku.jpg" alt="Colors Section" width="200"/> 
 *Learning numbers with audio support.*
 
 ### Colors Section
-![Colors Section](screenshots/Screenshot.Colors.example.toku.jpg)  
+<img src="screenshots/Screenshot.Colors.example.toku.jpg" alt="Colors Section" width="200"/>
 *Learning colors with Japanese pronunciation.*
 
 ### Family Members Section
-![Family Members Section](screenshots/Screenshot.FamilyMembers.example.toku.jpg)  
+<img src="screenshots/Screenshot.FamilyMembers.example.toku.jpg" alt="FamilyMembers Section" width="200"/>
 *Learning Family Members with Japanese pronunciation.*
 
 ## 🖼️ Screensrecord
