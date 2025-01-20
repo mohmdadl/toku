@@ -21,25 +21,25 @@ A mobile application designed to help users learn the Japanese language, featuri
 
 
 ### Home Screen
-![Home Screen](screenshots\Screenshot.HomeScreen.example.toku.jpg)  
+![Home Screen](screenshots/Screenshot.HomeScreen.example.toku.jpg)  
 *Home screen showing categories and audio playback.*
 
 ### Numbers Section
-![Numbers Section](screenshots\Screenshot.Numbers.example.toku.jpg)  
+![Numbers Section](screenshots/Screenshot.Numbers.example.toku.jpg)  
 *Learning numbers with audio support.*
 
 ### Colors Section
-![Colors Section](screenshots\Screenshot.Colors.example.toku.jpg)  
+![Colors Section](screenshots/Screenshot.Colors.example.toku.jpg)  
 *Learning colors with Japanese pronunciation.*
 
 ### Family Members Section
-![Colors Section](screenshots\Screenshot.FamilyMembers.example.toku.jpg)  
+![Family Members Section](screenshots/Screenshot.FamilyMembers.example.toku.jpg)  
 *Learning Family Members with Japanese pronunciation.*
 
 ## 🖼️ Screensrecord
 
 ### Pharses Screen
-![Pharses Screen](screenshots\Screenrecord.Pharses.example.toku.mp4)  
+![Pharses Screen](screenshots/Screenrecord.Pharses.example.toku.mp4)  
 *Listening popular pharses in japanes.*
 
 ## 📥 How to Run the App
